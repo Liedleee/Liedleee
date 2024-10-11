@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liedleee
-- 👀 I’m interested in Fullstack Developer
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning HTML CSS Java Script
 
 
